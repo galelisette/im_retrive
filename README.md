@@ -25,7 +25,7 @@ PS: It is recommended to install PyTorch with GPU support __if available__:
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
 
-4. Run the notebook [retrival.ipynb](https://github.com/gelelisette/retrival.ipynb), which contains examples of image retrieval
+4. Run the notebook [retrival.ipynb](https://github.com/galelisette/im_retrive/blob/master/retrival.ipynb), which contains examples of image retrieval
 
 5. Create a folder named __images__ in the root of the repository and place the images you want to analyze inside it
 
